@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.Niit.flight-system' is invalid and this project uses 'com.Niit.flight_system' instead.
+* The original package name 'com.niit.flight-system' is invalid and this project uses 'com.niit.flight_system' instead.
 
 # Getting Started
 
