@@ -8,7 +8,7 @@
 		<version>4.0.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.Niit</groupId>
+	<groupId>com.niit</groupId>
 	<artifactId>flight-system</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
@@ -26,8 +26,6 @@
 		<tag/>
 		<url/>
 	</scm>
-	<properties>
-	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -49,6 +47,7 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
 	<build>
 		<plugins>
 			<plugin>
@@ -57,4 +56,5 @@
 			</plugin>
 		</plugins>
 	</build>
+
 </project>
